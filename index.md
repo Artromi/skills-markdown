@@ -6,7 +6,7 @@
 ###### Last header!
 
 
-![Image of nyantocat](https://octodex.github.com/nyantocat/) 
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 
 ``` javascript
