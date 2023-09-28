@@ -9,7 +9,9 @@
 ![Image of nyantocat](https://octodex.github.com/nyantocat/) 
 
 
-
+``` javascript
+var myVar = "Hello, world!";
+```
 
 
 
