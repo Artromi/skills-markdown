@@ -6,7 +6,7 @@
 ###### Last header!
 
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+![Image of Trekkie](https://octodex.github.com/trekkie/)
 
 
 ``` javascript
